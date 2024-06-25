@@ -1,0 +1,47 @@
+Fragata: image1:"https://www.wikiaves.com.br/2243633",
+         image2: "https://www.wikiaves.com.br/2563317",
+         
+
+Viuvinha-preta: "https://www.wikiaves.com.br/1135072"
+                "https://www.wikiaves.com.br/2404977"
+                song: "https://xeno-canto.org/431362"
+
+Viuvinha-marrom: "https://www.wikiaves.com.br/1024250"
+                 "https://www.wikiaves.com.br/4744857"
+
+Noivinha: "https://www.wikiaves.com.br/1096071"
+          "https://www.wikiaves.com.br/2306649"
+
+Rabo-de-Junco-de-bico-amarelo: "https://www.wikiaves.com.br/1946414"
+                               "https://www.wikiaves.com.br/2408783"
+
+Mumbebo Mascarado: "https://www.wikiaves.com.br/2230260"
+                   "https://www.wikiaves.com.br/5925531"
+
+Mumbebo Marrom: "https://www.wikiaves.com.br/317274"
+                "https://www.wikiaves.com.br/5512073"
+
+Mumbebo pé vermelho: "https://www.wikiaves.com.br/2291570"
+                     "https://www.wikiaves.com.br/4761887"
+
+Pardela de Asa Larga: "https://www.wikiaves.com.br/5840336"
+                      "https://www.wikiaves.com.br/3597879"
+
+Rabo-de-junco-de-bico-vermelho: "https://www.wikiaves.com.br/621338"
+                                "https://www.wikiaves.com.br/5932889"
+
+Sebito de Noronha: "https://www.wikiaves.com.br/987671"
+                   "https://www.wikiaves.com.br/2895531"
+
+Cocoruta: "https://www.wikiaves.com.br/529708"
+          "https://www.wikiaves.com.br/1167315"
+
+Arribaçã: "https://www.wikiaves.com.br/517045"
+          "https://www.wikiaves.com.br/562416"
+
+Maçarico de bico torto: "https://www.wikiaves.com.br/1142983"
+                        "https://www.wikiaves.com.br/3090386"
+
+Batuíla de axila preta: "https://www.wikiaves.com.br/3090390"
+                        "https://www.wikiaves.com.br/325381"
+

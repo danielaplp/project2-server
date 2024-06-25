@@ -1,33 +1,218 @@
 {
-  "projects": [
+  "team": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "fullName": "Cecília licarião",
+      "role": "Diretora",
+      "image": "https://static.wixstatic.com/media/c74d60_6c57a060dafa42d3823d170f923a6738~mv2.jpg/v1/fill/w_468,h_381,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c74d60_6c57a060dafa42d3823d170f923a6738~mv2.jpg"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "fullName": "Larissa Amaral",
+      "role": "Auxiliar de Projetos",
+      "image": "https://static.wixstatic.com/media/c74d60_516caf2a99354e8bb000608714e85b55~mv2.png/v1/fill/w_468,h_381,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c74d60_516caf2a99354e8bb000608714e85b55~mv2.png"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "fullName": "Hugo Fernandes",
+      "role": "Colaborador",
+      "image": "https://static.wixstatic.com/media/f275fd_f3a419d730d44a51be44a2423e6fc6ea~mv2.jpg/v1/fill/w_235,h_300,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f275fd_f3a419d730d44a51be44a2423e6fc6ea~mv2.jpg"
+    },
+    {
+      "id": 4,
+      "fullName": "Geisi Sobral",
+      "role": "Técnica de Campo",
+      "image": "https://static.wixstatic.com/media/c74d60_b0c19d5d5091403690222a2a8ea5a974~mv2.jpg/v1/fill/w_468,h_381,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c74d60_b0c19d5d5091403690222a2a8ea5a974~mv2.jpg"
+    },
+    {
+      "id": 5,
+      "fullName": "Lisandra Maria",
+      "role": "Colaboradora",
+      "image": "https://static.wixstatic.com/media/c74d60_bc7d7e9bdb954c1ea1bf878a6ee8f4ea~mv2.jpg/v1/fill/w_236,h_300,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c74d60_bc7d7e9bdb954c1ea1bf878a6ee8f4ea~mv2.jpg"
+    },
+    {
+      "id": 6,
+      "fullName": "Hei Nascimento",
+      "role": "colaborador",
+      "image": "https://static.wixstatic.com/media/c74d60_23acd099b52e4e399f01d865be2c0f96~mv2.jpg/v1/fill/w_236,h_300,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c74d60_23acd099b52e4e399f01d865be2c0f96~mv2.jpg"
+    },
+    {
+      "id": 7,
+      "fullName": "Gabriela Arnoso",
+      "role": "colaboradora",
+      "image": "https://static.wixstatic.com/media/c74d60_1990b01ea7e04a4b9fd98a07d71e7089~mv2.jpg/v1/fill/w_236,h_300,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c74d60_1990b01ea7e04a4b9fd98a07d71e7089~mv2.jpg"
+    },
+    {
+      "id": 8,
+      "fullName": "Ian Toscano",
+      "role": "colaborador",
+      "image": "https://static.wixstatic.com/media/c74d60_de6600193963459b817ca152005dedba~mv2.jpeg/v1/fill/w_236,h_300,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c74d60_de6600193963459b817ca152005dedba~mv2.jpeg"
+    }
+  ],
+  "birds": [
+    {
+      "id": 9,
+      "name": "Catraia/Fragata",
+      "scientificName": "Fregata magnificens",
+      "image1": "https://s3.amazonaws.com/media.wikiaves.com.br/images/3422/2243633g_cef3306b7950fe3a1de3e48f88b9b5a0.jpg",
+      "image2": "https://s3.amazonaws.com/media.wikiaves.com.br/images/3652/2563317_878fcd20eb2609996e6705e08606e8b2.jpg",
+      "song": "https://xeno-canto.org/sounds/uploaded/CFRYARSVHN/XC798146-fragata.mp3"
+    },
+    {
+      "id": 10,
+      "name": "Rabo De Junco De Bico Amarelo",
+      "scientificName": "Phaethon lepturus",
+      "image1": "https://s3.amazonaws.com/media.wikiaves.com.br/images/8042/2408783g_eff9631289f0fa4e1cfb6c04f6c23935.jpg",
+      "image2": "https://www.wikiaves.com.br/2408783",
+      "song": "https://xeno-canto.org/sounds/uploaded/UGTCRVWENN/XC146700-Fernando%20de%20Noronha%20%2826%29_%28new%29.mp3"
+    },
+    {
+      "id": 11,
+      "name": "Viuvínha-Preta",
+      "scientificName": "Anous minutus",
+      "image1": "https://s3.amazonaws.com/media.wikiaves.com.br/images/5851/1585095g_2890684b9ad38b44c56b420b2862eab0.jpg",
+      "image2": "https://www.wikiaves.com.br/2408783",
+      "song": "https://xeno-canto.org/sounds/uploaded/LXKLWEDKEM/XC431361-Trinta%20reis%20preto3%20%28Anous%20minutus-OK%29%2007-08-18%208e41.mp3"
+    },
+    {
+      "id": 12,
+      "name": "Viuvínha-Marrom",
+      "scientificName": "Anous stolidus",
+      "image1": "https://s3.amazonaws.com/media.wikiaves.com.br/images/4261/1624304g_53699790c444306af5096db6adf996de.jpg",
+      "image2": "https://www.wikiaves.com.br/2408783",
+      "song": "https://xeno-canto.org/sounds/uploaded/YPDXKAZUZN/XC619371-Noddi%20brun%201B%2022012021%20-%20Haraiki%20-%20Polynesie%20francaise.mp3"
+    },
+    {
+      "id": 13,
+      "name": "Noivinha",
+      "scientificName": "Gygis alba",
+      "image1": "https://s3.amazonaws.com/media.wikiaves.com.br/images/2901/1092272g_a8a2930309885d0bd8887189432fc9cc.jpg",
+      "image2": "https://www.wikiaves.com.br/2408783",
+      "song": "https://xeno-canto.org/sounds/uploaded/LXKLWEDKEM/XC431351-Grazina%20%28Gygis%20alba-OK%29%2006-08-18%208e47.mp3"
+    },
+    {
+      "id": 14,
+      "name": "Mumbebo Mascarado",
+      "scientificName": "Sula dactylatra",
+      "image1": "https://s3.amazonaws.com/media.wikiaves.com.br/images/0322/2230260g_06aaf904361306fa548a1c8f38c94674.jpg",
+      "image2": "https://www.wikiaves.com.br/5925531",
+      "song": "https://xeno-canto.org/sounds/uploaded/LXKLWEDKEM/XC431271-Atoba%20grande%20%28Sula%20dactylatra-OK%29%2007-08-18%207e57.mp3"
+    },
+    {
+      "id": 15,
+      "name": "Mumbebo Marrom",
+      "scientificName": "Sula leucogaster",
+      "image2": "https://www.wikiaves.com.br/317274",
+      "image1": "https://s3.amazonaws.com/media.wikiaves.com.br/images/2155/5512073g_585125c49bb9b5a97084e75bdcea0f92.jpg",
+      "song": "https://xeno-canto.org/sounds/uploaded/TYZXSONMRC/Sula%20leucogaster.mp3"
+    },
+    {
+      "id": 16,
+      "name": "Mumbebo de Pé Vermelho",
+      "scientificName": "Sula sula",
+      "image1": "https://s3.amazonaws.com/media.wikiaves.com.br/images/0803/3080875g_20bce1cf468ad2f30475b4f393eca520.jpg",
+      "image2": "https://s3.amazonaws.com/media.wikiaves.com.br/images/1674/4761887g_c42caaa0629eeee12f6b50e13af4ea4b.jpg",
+      "song": "https://xeno-canto.org/sounds/uploaded/RFRTVEHIZX/XC332847-160730b_Red-footedBooby_ad_Genovesa_OC.mp3"
+    },
+    {
+      "id": 17,
+      "name": "Pardela De Asa Larga",
+      "scientificName": "Puffinus lherminieri",
+      "image1": "https://s3.amazonaws.com/media.wikiaves.com.br/images/0485/5840336g_0f2589d704cba248b0d3faef02ea8202.jpg",
+      "image2": "https://www.wikiaves.com.br/3597879",
+      "song": "https://xeno-canto.org/sounds/uploaded/WZSVLIHYQF/XC318903-Puffinus%20lherminieri%20FN%208%20out%202005%20adultos%20e%20filhote.mp3"
+    },
+    {
+      "id": 18,
+      "name": "Rabo de Junco De Bico Vermelho",
+      "scientificName": "Phaethon aethereus",
+      "image2": "https://www.wikiaves.com.br/621338",
+      "image1": "https://s3.amazonaws.com/media.wikiaves.com.br/images/2395/5932889g_b63942069b78f7ea54cf2349842d5323.jpg",
+      "song": "https://xeno-canto.org/sounds/uploaded/TZWQJUGVHP/XC394990-rabo-de-palha-de-bico-vermelho.mp3"
+    },
+    {
+      "id": 19,
+      "name": "Sebito De Noronha",
+      "scientificName": "Vireo gracilirostris",
+      "image1": "https://s3.amazonaws.com/media.wikiaves.com.br/images/789/987671g_55f01fc18f926b632cc0dc9b3dcb0fdf.jpg",
+      "image2": "https://www.wikiaves.com.br/2895531",
+      "song": "https://xeno-canto.org/sounds/uploaded/YWWWUBVAJF/XC428139-Vireo%20gracilirostris%20-Caio%20Brito-%28Fernando%20de%20Noronha-PE%29-BRITO155.mp3"
+    },
+    {
+      "id": 20,
+      "name": "Cocoruta",
+      "scientificName": "Elaenia ridleyana",
+      "image2": "https://www.wikiaves.com.br/529708",
+      "image1": "https://s3.amazonaws.com/media.wikiaves.com.br/images/7611/1167315g_81345e597c31d1c723e4fb6035e6796a.jpg",
+      "song": "https://xeno-canto.org/sounds/uploaded/LXKLWEDKEM/XC431275-Cocuruta%20%28Elaenia%20ridleyana-OK%29%2006-08-18%208e19.mp3"
+    },
+    {
+      "id": 21,
+      "name": "Arribaçã",
+      "scientificName": "Zenaida auriculata",
+      "image2": "https://www.wikiaves.com.br/517045",
+      "image1": "https://s3.amazonaws.com/media.wikiaves.com.br/images/265/562416g_3de181befa57a8a0ab2314e2526e0a99.jpg",
+      "song": "https://xeno-canto.org/sounds/uploaded/ORPKXJRFDZ/XC152620-amargosa.mp3"
+    },
+    {
+      "id": 22,
+      "name": "Maçarico De Bico Torto",
+      "scientificName": "Numenius hudsonicus",
+      "image1": "https://s3.amazonaws.com/media.wikiaves.com.br/images/2411/1142983g_ede456d1388a14ba1747b469d78f710a.jpg",
+      "image2": "https://www.wikiaves.com.br/3090386",
+      "song": "https://xeno-canto.org/sounds/uploaded/XTVEPHMPPJ/XC752838-20220929%2C1230hrsNumenius-phaeopus.mp3"
+    },
+    {
+      "id": 23,
+      "name": "Batuíra De Axila Preta",
+      "scientificName": "Pluvialis squatarola",
+      "image2": "https://www.wikiaves.com.br/3090390",
+      "image1": "https://s3.amazonaws.com/media.wikiaves.com.br/images/523/325381_2876197e85b2f3326868af7d30008fc5.jpg",
+      "song": "https://xeno-canto.org/sounds/uploaded/JXZFXAZWHY/XC904184-17.09.2023---9.53---P.squatarola.mp3"
+    }
+  ],
+  "atividades": [
+    {
+      "id": "24",
+      "name": "Anilhamento",
+      "text": "Monitoramento de indivíduos de sebito-de-noronha e cocoruta com anilhas coloridas",
+      "image": "https://static.wixstatic.com/media/c74d60_a0af958191da4d46aad6aa125bc81183~mv2.jpg/v1/crop/x_1673,y_1169,w_2656,h_3311/fill/w_389,h_485,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/_H1A6726.jpg",
+      "detailedInfo": "Semestralmente, realizamos campanhas de anilhamento para coletar parâmetros biológicos e ecológicos destas espécies endêmicas ameaçadas de extinção. Assim, conseguimos traçar melhores estratégias de conservação."
+    },
+    {
+      "id": "25",
+      "name": "Preparando Guias",
+      "text": "Capacitando mais de 50% dos guias de Fernando de Noronha.",
+      "image": "https://static.wixstatic.com/media/c74d60_3087d123ce9c4da9876b0575ada2a849~mv2.jpeg/v1/crop/x_337,y_352,w_2497,h_3104/fill/w_389,h_485,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/DSCN0890-01.jpeg",
+      "detailedInfo": "O curso de aperfeiçoamento tem o objetivo trazer informações sobre curiosidades e singularidades da avifauna de Fernando de Noronha para que eles possam despertar o interesse dos turistas pela rica biodiversidade local."
+    },
+    {
+      "id": "26",
+      "name": "Papo de Passarinho",
+      "text": "Mensalmente nos apresentamos no Centro de Visitantes do TAMAR.",
+      "image": "https://static.wixstatic.com/media/c74d60_195bba8d4e2541b4b6176936aa41c23d~mv2.jpg/v1/crop/x_0,y_565,w_4480,h_5589/fill/w_389,h_485,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/_EI_5591_JPG.jpg",
+      "detailedInfo":"Nossa palestra tem uma temática sobre as aves de Noronha mostrando sua diversidade e curiosidades, despertando o interesse de turistas para passarinhar."
+    },
+    {
+      "id": "27",
+      "name": "Vem Passarinhar",
+      "text": "Trilha mensal de observação de aves no mirante dos golfinhos, praia do Sancho.",
+      "image": "https://static.wixstatic.com/media/c74d60_f3541563630e4ebf94e4d2b16b11319e~mv2.jpg/v1/crop/x_0,y_1011,w_4431,h_5523/fill/w_389,h_485,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/0E8A4563.jpg",
+      "detailedInfo":"O objetivo é promover a conexão das pessoas com a natureza. A atividade é gratuita e aberta a todos os públicos, com disponibilização de binóculos, blusas e mini-guia de observação de aves. Essa ação é patrocinada pela Log Nature."
+    },
+    {
+      "id": "28",
+      "name": "Ciranda de Passarinho",
+      "text": "Atividades lúdicas desenvolvidas na escolha e na creche do arquipélago.",
+      "image": "https://static.wixstatic.com/media/c74d60_e6b7f55f7f794553959b28062bc3190e~mv2.jpg/v1/crop/x_1877,y_1067,w_2354,h_2936/fill/w_389,h_485,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/_EI_6759_JPG.jpg",
+      "detailedInfo":"Buscamos abordar a biologia e ecologia da avifauna noronhense como, por exemplo, as diferentes características na construção dos ninhos e variação das cores dos ovos. Mais de 100 crianças também já receberam nossos materiais didáticos."
+    },
+    {
+      "id": "29",
+      "name": "Materiais de Divulgação",
+      "text": "Vários materiais para capacitar e estimular a observação de aves na ilha são produzidos.",
+      "image": "https://static.wixstatic.com/media/c74d60_fe0d19229d4d43d49f8949cf059acc7a~mv2.jpg/v1/crop/x_1397,y_0,w_3206,h_4000/fill/w_389,h_485,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/IMG_6243.jpg",
+      "detailedInfo":"Exemplos são o mini-guia de aves, nosso livro de colorir, adesivos e jogos para crianças e nosso último sonho realizado: o Guia de Aves de Fernando de Noronha."
     }
   ]
 }
